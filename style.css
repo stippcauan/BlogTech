@@ -19,6 +19,7 @@ main{
     margin: 0 auto;
     padding: 16px;
     flex-wrap: wrap;
+}
 article{
     display: flex;
     margin: 16px;
@@ -29,6 +30,7 @@ article{
     align-items: center;
     text-align: center;
     justify-content: center;
+    box-shadow: 2px 2px 10px #dadee2;
 }
 img{
     width: 80px;
